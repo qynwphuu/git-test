@@ -1,4 +1,6 @@
-milk (local update)
+
+milk (local + github edit)
+
 bread
 rice
 eggs
