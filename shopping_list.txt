@@ -1,4 +1,4 @@
-milk
+milk (local update)
 bread
 rice
 eggs
